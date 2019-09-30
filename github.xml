@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="8ce82f49-a44d-482f-8d1f-ee12c8d6dbf8" name="Hybrid-SyntaX">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
