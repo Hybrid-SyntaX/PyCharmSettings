@@ -8,4 +8,7 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="h" second-keystroke="shift tab" />
   </action>
+  <action id="TogglePopupHints">
+    <keyboard-shortcut first-keystroke="h" second-keystroke="shift ctrl tab" />
+  </action>
 </keymap>
