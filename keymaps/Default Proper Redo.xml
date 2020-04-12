@@ -5,4 +5,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="h" second-keystroke="shift tab" />
+  </action>
 </keymap>
