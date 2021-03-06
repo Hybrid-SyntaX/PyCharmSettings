@@ -3,4 +3,21 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Default No Spell and Style Check" />
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Consolas" />
+  </component>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\b(try)\b.*" />
+    <pattern useCustomColors="true" pattern="\b(hack)\b.*">
+      <option name="FOREGROUND" value="ffe588" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+    </pattern>
+  </component>
 </application>
