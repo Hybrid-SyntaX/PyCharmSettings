@@ -5,7 +5,10 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Default No Spell and Style Check" />
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Consolas" />
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+    <option name="FONT_SCALE" value="1.25" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
