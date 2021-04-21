@@ -1,0 +1,6 @@
+<keymap version="1" name="KDE copy 1" parent="Default for KDE">
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="shift control button3" />
+  </action>
+</keymap>
