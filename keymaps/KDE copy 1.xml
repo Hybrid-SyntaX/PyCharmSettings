@@ -3,4 +3,8 @@
     <mouse-shortcut keystroke="alt button1" />
     <mouse-shortcut keystroke="shift control button3" />
   </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
 </keymap>
